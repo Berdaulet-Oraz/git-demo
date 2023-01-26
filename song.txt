@@ -2,3 +2,15 @@ Hello World
 Berda is here
 New learnings 
 Are waiting
+
+git log
+git add
+git push
+git pull
+git status
+git commit
+git config
+git remote -v
+cd 
+ls
+git clone
